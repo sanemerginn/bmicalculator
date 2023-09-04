@@ -1,0 +1,86 @@
+.container, .container .content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container .content {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    box-sizing: border-box;
+    margin: 40px;
+    padding: 20px;
+}
+.container .p-tag {
+    display: flex;
+    flex-direction: row;
+}
+.bVSebb {
+    color: #38f321;
+    font-size: 1em;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid #38f321;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.VNoll {
+    color: #0000ff;
+    font-size: 1em;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid #0000ff;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.glmbED {
+    color: #fb0097;
+    font-size: 1em;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid #fb0097;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.fevdVQ {
+    color: #370a0a;
+    font-size: 1em;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid #370a0a;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container .content h1 {
+    color: #a5962a;
+}
+.container .food-div {
+    height: 100%;
+    width: 100%;
+}
+.hrMeDk {
+    padding: 1em;
+    margin: 1em;
+}
+.container .food-div p {
+    align-items: center;
+    color: #a5962a;
+    display: flex;
+    font-size: 25px;
+    font-weight: 700;
+    justify-content: center;
+    margin: 10px 5px 0;
+}
+.container .food-div p img {
+    height: 40px;
+    margin-left: 5px;
+    width: 40px;
+}
+.container {
+    background-color: beige;
+}
+.container .content h1 {
+    color: #a5962a;
+    font-size: 30px;
+}
